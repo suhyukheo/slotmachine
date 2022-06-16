@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/slotmachine/static/css/main.275f5035.css",
+    "main.js": "/slotmachine/static/js/main.6f32347d.js",
+    "static/js/787.cff5153b.chunk.js": "/slotmachine/static/js/787.cff5153b.chunk.js",
+    "service-worker.js": "/slotmachine/service-worker.js",
+    "index.html": "/slotmachine/index.html",
+    "main.275f5035.css.map": "/slotmachine/static/css/main.275f5035.css.map",
+    "main.6f32347d.js.map": "/slotmachine/static/js/main.6f32347d.js.map",
+    "787.cff5153b.chunk.js.map": "/slotmachine/static/js/787.cff5153b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.275f5035.css",
+    "static/js/main.6f32347d.js"
+  ]
+}
